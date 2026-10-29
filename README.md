@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Photo+Editing-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Photo+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Radiant Photo Free Installer** — Radiant Photo is an AI-powered photo editing application for Windows and macOS that emphasizes automatic enhancement and intelligent adjustments. Works without internet access, no account required. Full offline installation.
+**💻 Radiant Photo Free Installer** — Radiant Photo is an AI-powered photo editing tool that automatically enhances photos with one click using scene-recognition AI. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Radiant Photo
 
-Radiant Photo is an AI-powered photo editing application for Windows and macOS that emphasizes automatic enhancement and intelligent adjustments. Developed by the makers of ON1 Photo RAW, Radiant Photo analyzes each photo and applies AI-driven corrections for exposure, color, and subject enhancement. It works as a standalone editor and as a plugin for Lightroom, Photoshop, and Capture One.
+Radiant Photo is an AI-powered photo editing tool that automatically enhances photos with one click using scene-recognition AI. It applies intelligent color correction, exposure adjustment, and skin tone enhancement while maintaining natural results.
 
 ---
 
 ## ❌ Problem: Radiant Photo is hard to access
 
-- **Commercial License** — Subscription or purchase required
-- **AI Dependency** — Core value relies on automatic adjustments; manual control secondary
-- **Similar Alternatives** — Many photographers satisfied with Lightroom's built-in AI features
-- **Internet for AI** — Some AI features may require internet connectivity
+- **Paid License** — Requires purchase; subscription option available
+- **AI-Only Approach** — Limited manual control compared to Lightroom or Capture One
+- **Competition** — Luminar Neo and ON1 Photo RAW offer similar AI enhancement with more editing tools
+- **Limited Workflow Integration** — Plugin for Lightroom/Photoshop less seamless than dedicated tools
 
 ---
 
@@ -121,7 +121,7 @@ Radiant Photo is an AI-powered photo editing application for Windows and macOS t
 
 ---
 
-**Radiant Photo Free Installer** — Radiant Photo is an AI-powered photo editing application for Windows and macOS that emphasizes automatic enhancement and intelligent adjustments. Install without internet connection today!
+**Radiant Photo Free Installer** — Radiant Photo is an AI-powered photo editing tool that automatically enhances photos with one click using scene-recognition AI. Install without internet connection today!
 
 <div align="center">
 
